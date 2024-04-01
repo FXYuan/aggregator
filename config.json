@@ -3,7 +3,7 @@
         "http": "http:/127.0.0.1:1080",
         "https": "http://127.0.0.1:1080"
     },
-    "waitTime": 0,
+    "waitTime": 1,
     "retry": 5,
     "domains": [
         {
